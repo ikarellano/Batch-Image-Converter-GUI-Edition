@@ -3,7 +3,7 @@
 > A standalone desktop application for batch converting images with a graphical interface.  
 > Based on [Batch Image Converter](https://github.com/EdoardoTosin/Batch-Image-Converter) by Edoardo Tosin.
 
-![screenshot](assets/screenshot.png)
+
 
 ---
 
